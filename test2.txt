@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 test 2 clone and pull
+>>>>>>> 24147ed76533e27f5baa3652244a054ede26bfb2
